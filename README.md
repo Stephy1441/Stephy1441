@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>StreamFlix Movie Analysis </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Movie Analysis](https://github.com/Stephy1441/streamflix)
 - <b>Retail  Strategy and Analytics in Python</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Air Quality Management</b>
