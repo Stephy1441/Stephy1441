@@ -9,7 +9,7 @@
 - <b>Air Quality Management</b>
   - [Air quality analysis](https://github.com/Stephy1441/Air-quality)
 - <b>Test Utilization and Patient Insights</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Patient insights](https://github.com/Stephy1441/Patient-insights)
 - <b>Client Campaign Performance and Engagement Insights</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
