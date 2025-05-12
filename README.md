@@ -7,7 +7,7 @@
 - <b>Retail  Strategy and Analytics in Python</b>
   - [Retail analysis](https://github.com/Stephy1441/retail-analysis) 
 - <b>Air Quality Management</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Air quality analysis](https://github.com/Stephy1441/Air-quality)
 - <b>Test Utilization and Patient Insights</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Client Campaign Performance and Engagement Insights</b>
